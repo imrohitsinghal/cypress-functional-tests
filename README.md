@@ -1,4 +1,4 @@
-##Help + Testing
+## Help + Testing
 The steps below will take you all the way through Cypress.
 
 **If you get stuck, here is more help:**
@@ -27,7 +27,7 @@ cd cypress-functional-tests
 npm install
 
 ## start the tests
-cyress run
+cypress run
 ```
 
 ### 3. Add the project to Cypress
