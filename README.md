@@ -41,7 +41,7 @@ git clone https://github.com/<your-username>/cypress-functional-tests.git
 ##  Launch cypress desktop app
 
 ## Open local repo manually or drag-drop it in cypress app
-Click "visual-test.spec.js"
+Click "landingpage.js"
 ```
 
 ### 4. Add the project to Cypress
