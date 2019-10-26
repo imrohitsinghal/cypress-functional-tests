@@ -36,7 +36,7 @@ If you’re not using Node or npm in your project or you want to try Cypress out
 
 ```bash
 ## Clone the repo locally
-git clone https://github.com/<your-username>/cypress-visual-tests.git
+git clone https://github.com/<your-username>/cypress-functional-tests.git
 
 ##  Launch cypress desktop app
 
