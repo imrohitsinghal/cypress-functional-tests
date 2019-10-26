@@ -29,11 +29,25 @@ npm install
 ## start the tests
 cypress run
 ```
+### 3. Run tests locally without npm
 
-### 3. Add the project to Cypress
+If you’re not using Node or npm in your project or you want to try Cypress out quickly, you can always download Cypress directly from our CDN.
+[Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Direct-download)
+
+```bash
+## Clone the repo locally
+git clone https://github.com/<your-username>/cypress-visual-tests.git
+
+##  Launch cypress desktop app
+
+## Open local repo manually or drag-drop it in cypress app
+Click "visual-test.spec.js"
+```
+
+### 4. Add the project to Cypress
 
 [Follow these instructions to add the project to Cypress.](https://on.cypress.io/writing-your-first-test)
 
-### 4. Run in Continuous Integration
+### 5. Run in Continuous Integration
 
 [Follow these instructions to run the tests in CI.](https://on.cypress.io/continuous-integration)
