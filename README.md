@@ -12,7 +12,7 @@ The steps below will take you all the way through Cypress.
 
 ### 2. Fork this repo
 
-If you want to experiment with running this project in Continuous Integration, you'll need to [fork](https://github.com/cypress-io/cypress-example-phonecat#fork-destination-box) it first.
+If you want to experiment with running this project in Continuous Integration, you'll need to fork it first.
 
 After forking this project in `Github`, follow these commands to run tests locally:
 
