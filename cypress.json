@@ -3,7 +3,7 @@
   "chromeWebSecurity": true,
   
   "env": {
-    "baseURL": "http://localhost:8080",
+    "baseURL": "http://fixture-finder-v1.herokuapp.com",
     "browser" : "macbook-15",
     "loginURL": "https://signin.ebay.de/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.de%2F"
   }
